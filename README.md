@@ -1,4 +1,4 @@
-# ft_irc - *by rdalal & gmechaly*
+# ft_irc - *rdalal & gmechaly*
 
 ---
 
